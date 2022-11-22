@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+exports.Distribuidora = void 0;
+var main_1 = require("./main");
+exports.Distribuidora = main_1.Distribuidora;
+var games = main_1.Distribuidora.getInstance();
+games.add({ titulo: "The Last of US Part II", console: "PS4", quantidade: 20 });
+games.add({ titulo: "Fifa 23", console: "PS5", quantidade: 40 });
+games.add({ titulo: "NBA 2K23", console: "Xbox One", quantidade: 30 });
+games.add({ titulo: "Diablo 4", console: "PC", quantidade: 20 });
+games.add({ titulo: "God Of War", console: "PS4", quantidade: 30 });
+games.show();
+console.log("boa noite");
