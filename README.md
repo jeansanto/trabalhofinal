@@ -50,3 +50,5 @@
   
   O padrão singleton e alcançar seus benefícios para o desenvolvimento de um código limpo e seguro. Singleton pode ser implementado de várias formas.Porém, sua utilização exige cuidados e responsabilidades para utilizá-lo de forma correta e coerente.
 
+Link da gravação
+https://drive.google.com/file/d/15HtIvLRBa7uOqv6a9gKdMm-ZmZWDK864/view?usp=sharing
